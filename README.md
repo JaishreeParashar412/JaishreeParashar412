@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaishreeParashar412
 - 👀 I’m interested in front-end-developement.
 - 🌱 I’m currently pursuing BCA from Maharshi Dayanand University Rohtak.
-- 💞️ I'm doing intership in Maruti Suzuki India Limited.
+- 💞️ I'm doing internship in Maruti Suzuki India Limited.
 - 📫 jaishreeparashar701@gmail.com
 
 <!---
