@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaishreeParashar412
 - 👀 I’m interested in front-end-developement.
-- I am currently pursuing MCA from K.R. Mangalam University. 
+-     I am currently pursuing MCA from K.R. Mangalam University. 
 - 🌱 I’have completed my BCA from Maharshi Dayanand University Rohtak.
 - 💞️ I'have done an internship in Maruti Suzuki India Limited.
 - 📫 jaishreeparashar701@gmail.com
